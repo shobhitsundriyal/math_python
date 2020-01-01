@@ -11,3 +11,5 @@ for i in range(60):
         turtle.color(color)
         turtle.circle(100)
         turtle.left(10)
+
+turtle.hideturtle()
